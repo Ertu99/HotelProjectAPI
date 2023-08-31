@@ -1,0 +1,14 @@
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/bin/Debug/net6.0/HotelProject.Entitylayer.deps.json
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/bin/Debug/net6.0/HotelProject.Entitylayer.runtimeconfig.json
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/bin/Debug/net6.0/HotelProject.Entitylayer.dll
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/bin/Debug/net6.0/HotelProject.Entitylayer.pdb
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.csproj.AssemblyReference.cache
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.AssemblyInfoInputs.cache
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.AssemblyInfo.cs
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.csproj.CoreCompileInputs.cache
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.dll
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/refint/HotelProject.Entitylayer.dll
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.pdb
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/HotelProject.Entitylayer.genruntimeconfig.cache
+/Users/ertu/Desktop/ASP.NETCORE/HotelProject/ApiConsume/HotelProject.Entitylayer/obj/Debug/net6.0/ref/HotelProject.Entitylayer.dll
