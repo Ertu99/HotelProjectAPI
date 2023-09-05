@@ -1,9 +1,10 @@
 using HotelProject.Entitylayer.Concrete;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace HotelProject.DataAccessLayer.Concrete;
 
-public class Context : DbContext
+public class Context : IdentityDbContext<AppUser,AppRole,int>
 {
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -15,4 +16,5 @@ public class Context : DbContext
     public DbSet<Staff> Staffs { get; set; }
     public DbSet<Subscribe> Subscribes { get; set; }
     public DbSet<Testimonial> Testimonials { get; set; }
+    public DbSet<Booking> Bookings { get; set; }
 }
